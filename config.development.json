@@ -1,0 +1,6 @@
+{
+  "clientId": "hpki7hajkjqbrliukng13nmv87szsmfo",
+  "clientSecret": "mCZ09FMha7fWBpC4db0b7p016RKuOzXb",
+  "frontend": "http://localhost:3000",
+  "secure": false
+}
