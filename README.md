@@ -1,5 +1,5 @@
 # Description
-Simple NodeJS middleware app, that connects to [Box API](https://developer.box.com/reference/), authenticates users using their Box credentials (OAuth) and exposes resources serving NES/Famicom rom files for the frontend application purpose. See working example at [titil.pl](https://boxil.titil.pl).
+Simple NodeJS middleware app, that connects to [Box API](https://developer.box.com/reference/), authenticates users using their Box credentials (OAuth) and exposes resources serving NES/Famicom rom files for the frontend application purpose.
 
 # Commands
 Run the application
